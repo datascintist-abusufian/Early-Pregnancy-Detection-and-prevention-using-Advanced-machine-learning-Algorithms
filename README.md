@@ -13,6 +13,8 @@ This project predicts early pregnancy loss from demographic, obstetric, anthropo
 
 Full details are in `Proper Dataset Documentation_Pregnancy loss prediction.pdf`.
 
+> **Data sharing.** `VitaminD.xlsx` is shared with the permission of the study team. Records are coded (study ID only) and contain no names, contact details or hospital record numbers.
+
 ## Notebooks
 
 | Notebook | Purpose |
